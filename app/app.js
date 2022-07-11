@@ -120,3 +120,7 @@ const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 
 
 console.log('hello inslanlar')
+console.log('hello inslanlar')
+console.log('hello inslanlar')
+console.log('hello inslanlar')
+console.log('hello inslanlar')
